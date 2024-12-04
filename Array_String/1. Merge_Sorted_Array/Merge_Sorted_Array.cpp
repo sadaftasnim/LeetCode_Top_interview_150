@@ -24,8 +24,6 @@ public:
             nums1[k] = nums2[j];
             j--;
             k--;
-        }
-        
-        
+        } 
     }
 };
